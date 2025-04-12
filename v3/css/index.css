@@ -27,7 +27,7 @@
 
 @font-face {
   font-family: "HYTMR";
-  src: url("https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2") format("woff2");
+  src: url("https://cdn.xcqcoo.top/npm/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2") format("woff2");
 }
 
 /** 背景 */
@@ -48,7 +48,7 @@ body::before {
 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url(https://kasuie.cc/api/img/bg?type=mobile&size=regular); /* 竖屏背景图片，可自行替换 */
+    background-image: url(https://api.erciyuan-image.xcqcoo.top/); /* 竖屏背景图片，可自行替换 */
   }
 }
 
